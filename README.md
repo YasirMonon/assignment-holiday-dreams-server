@@ -1,4 +1,5 @@
 # Simple Site of 'Travel Related Service' (Holiday Dreams) - Assignment (Milestone - 11)
+# This Repo is for 'Server Side'
 
 * This Assignment is mainly on `Node` , `Express` , `MongoDB`, `React Router` along with `Firebase`.
 
@@ -16,7 +17,7 @@
 
 * Basic `Banner` is added as well. 
 
-* [Click Here for Live Link / Website - Client Side - (Firebase)](https://city-psychiatric-hospital.web.app/)
+* [Click Here for Live Link / Website - Client Side - (Firebase)](https://holiday-dreams.web.app/)
 
 
 ### Technology Used
@@ -33,4 +34,4 @@
 
 * Screenshot of Live Site -
 
-![alt text](public/demo.png)
+![alt text](/demo.png)
